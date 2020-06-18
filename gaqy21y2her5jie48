@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/L5wMLaHv", true))()
+wait(1.5)
+loadstring(game:HttpGet("https://pastebin.com/raw/JzdnN1dV ", true))()
+wait(1.5)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EnigmaSan/Scripts/master/fx161gz?token=AMUFG3P4QG2CCLXF6DI7RJS65MMGO", true))()
