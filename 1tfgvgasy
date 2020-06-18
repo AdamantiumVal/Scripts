@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EnigmaSan/Scripts/master/fx161gz?token=AMUFG3P4QG2CCLXF6DI7RJS65MMGO"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EnigmaSan/Scripts/master/fx161gz?token=AMUFG3P4QG2CCLXF6DI7RJS65MMGO",true))()
