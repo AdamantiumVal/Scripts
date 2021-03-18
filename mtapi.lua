@@ -28,4 +28,5 @@ end
 
 return oldindex(self,...)
 end)
-game:GetService("TestService"):Message("MUTEX Anti-Kick initialized")
+rconsoleprint("@@RED@@")
+rconsoleprint("MUTEX Anti-Kick initialized\n")
