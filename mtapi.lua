@@ -28,5 +28,3 @@ end
 
 return oldindex(self,...)
 end)
-rconsoleprint("@@GREEN@@")
-rconsoleprint("MUTEX Anti-Kick initialized\n")
